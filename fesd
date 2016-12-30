@@ -1,0 +1,4 @@
+[
+{"Id":"c571cf80-541e-42de-b61b-c8a2b902e360","NomeJogo":"Mega-Sena","TotalAposta":"1","DezenasApostadas":"6","DataAposta":"Thu Dec 29 19:32:08 2016","NumerosSorteados":[[4,22,29,34,41,60]],"ValorAposta":"R$3.50"}
+,{"Id":"7eb4c141-76f0-4171-87e0-6f4dd950bd27","NomeJogo":"Lotomania","TotalAposta":"1","DezenasApostadas":"50","DataAposta":"Thu Dec 29 19:34:35 2016","NumerosSorteados":[[3,4,5,6,8,12,15,19,22,27,29,32,34,35,36,37,38,41,45,52,53,58,59,67,68,73,82,85,86,89,96,100]],"ValorAposta":"R$1.50"}
+ ]
